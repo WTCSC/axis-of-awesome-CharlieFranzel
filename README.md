@@ -1,2 +1,17 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19096886)
-# Axis of Awesome
+**AXIS OF AWESOME**
+
+This program takes some *fun* statistics about the U.S. spending on science and technology research and compares it with some data about suicides by strangulation/hanging.
+
+**How it Works**
+
+- Takes the statistics retrived from the sources
+- Uses Pandas to plot the data
+- Configures titles labels etc.
+
+**Sources**
+
+Government Spending: https://ncses.nsf.gov/surveys/federal-funds-research-development/2023-2024
+
+Suicides: https://www.cdc.gov/nchs/products/databriefs/db398.htm?utm_source=chatgpt.com
+
+
